@@ -8,6 +8,6 @@
   "str_2": "Place the brown chip in its corresponding slot",
 "expected_result": "The inscription 'Level pased' appears",
 "actual_result": "The Fifteens app closes unexpectedly",
-"build_version": 984321698"
+"build_version": "984321698"
 "environment": "Hardware: Asus VivoBook 15 X570DD Mobile QuadCore AMD Ryzen 7 3700U, 3347 MHz (33.5 x 100), OS Windows 10, Application: Fifteens Build ID: 984321698"
 }
